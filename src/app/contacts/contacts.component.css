@@ -42,12 +42,12 @@ table tbody tr:nth-child(odd) {
 }
 
 .name {
-  width: 25%;
+  width: 35%;
   border-right: 1px solid #282828;
 }
 
 .type{
-  width: 75%;
+  width: 65%;
   position: relative;
   color: #686868;
 }
@@ -172,11 +172,11 @@ td .name::before {
   }
 
   td .name {
-    width: 30%;
+    width: 35%;
   }
 
   td.type {
-    width: 70%;
+    width: 65%;
     padding-left: 15px;
   }
 
