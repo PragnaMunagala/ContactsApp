@@ -1,0 +1,23 @@
+.container {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+.row {
+  height: 100%;
+}
+
+.row [class*=col-]{
+  height: 100%;
+  padding: 10px 20px;
+}
+
+.box {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  width: 100%;
+}
+
+
